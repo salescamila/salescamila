@@ -22,6 +22,8 @@ Now is time to change the game and explore the Android's world.
 - 🔭 I am currently working on becoming an Android developer
 - 🌱 I’m currently learning Kotlin and all about Android
 - 😄 Pronouns: She/Her
+- 📫 How to reach me: [LinkedIn](linkedin.com/in/salescamila)
+- ⚡ Fun fact: I like to work with Javascript for a change
 
 
 ## My Stats
