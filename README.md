@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I've spend my initial 4 years of career working with C/C++ and Java and the last 6 years working with Pascal on Delphi5, Oracle database and ABAP for SAP ERP.
+Now is time for a change in the game and explore the Android's world.
+
+- 🔭 I’m currently working on to relocate myself as an Android Developer
+- 🌱 I’m currently learning Kotlin and all about Android
+- 😄 Pronouns: She/Her
+
+
+## My Stats
+
+<div>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salescamila&show_icons=true&langs_count=8&layout=compact&theme=buefy&count_private=true"/>
+
+<img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=salescamila&theme=buefy&?theme=dark&show_icons=true%count_private=true&include_all_commits=true"/>
+
+<!-- img width="490px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=salescamila"/ -->
+</div>
