@@ -19,7 +19,7 @@ I've spend my initial 4 years of career working with C/C++ and Java and the last
 
 Now is time to change the game and explore the Android's world.
 
-- 🔭 I’m currently working on to become an Android Developer
+- 🔭 I am currently working on becoming an Android developer
 - 🌱 I’m currently learning Kotlin and all about Android
 - 😄 Pronouns: She/Her
 
