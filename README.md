@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I've spend my initial 4 years of career working with C/C++ and Java and the last 6 years working with Pascal on Delphi5, Oracle database and ABAP for SAP ERP.
 
-Now is time for a change in the game and explore the Android's world.
+Now is time to change the game and explore the Android's world.
 
 - 🔭 I’m currently working on to become an Android Developer
 - 🌱 I’m currently learning Kotlin and all about Android
