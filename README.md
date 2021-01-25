@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 
 I've spend my initial 4 years of career working with C/C++ and Java and the last 6 years working with Pascal on Delphi5, Oracle database and ABAP for SAP ERP.
 
-Now is time to change the game and explore the Android's world.
-
-- 🔭 I am currently working on becoming an Android developer
-- 🌱 I’m currently learning Kotlin and all about Android
+- 🔭 I'm currently working with Front-end Web Development at [Sidia](sidia.com)
+- 🌱 I’m currently doing a post-graduation in Software Engineer
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/salescamila/)
 - ⚡ Fun fact: I like to work with Javascript for a change
