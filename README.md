@@ -21,6 +21,7 @@ I've spend my initial 4 years of career working with C/C++ and Java and the last
 - 🌱 I’m currently doing a post-graduation in Software Engineer
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/salescamila/)
+- :books: I'm tracking my studies on the tab [Projects](https://github.com/salescamila?tab=projects)
 - ⚡ Fun fact: I dream to become a great android developer 
 
 ## My Stats
