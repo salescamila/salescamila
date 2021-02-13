@@ -24,6 +24,9 @@ I spent my first 4 years of career working with C/C++ and Java, the last 6 years
 - :books: I'm tracking my studies on the tab [Projects](https://github.com/salescamila?tab=projects)
 - ⚡ Fun fact: I dream to become a great android developer 
 
+## Side Projects
+- At [Debugging](https://salescamila.github.io/debugging/) I'll be catalogin the problems I face as a software engineer
+
 ## My Stats
 
 <div>
