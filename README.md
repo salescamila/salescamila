@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I spent my first 4 years of career working with C/C++ and Java, the last 6 years working with Pascal on Delphi 5, Oracle database and ABAP for SAP ERP and now I'm a Front-end Developer using Node.js with React for money and React Native for fun in my spare time.
+I spent my first 4 years of career working with C/C++ and Java, the last 6 years working with Pascal on Delphi 5, Oracle database and ABAP for SAP ERP and now I'm a Front-end Developer using Node.js with React for work and React Native for fun on my spare time.
 
 - 🔭 I'm currently working with Front-end Web Development at [Sidia](https://www.sidia.com/)
 - 🌱 I’m currently doing a post-graduation in Software Engineer
