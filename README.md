@@ -36,7 +36,8 @@ I spent my first 4 years of career working with C/C++ and Java, the last 6 years
 
    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=salescamila&theme=buefy&?theme=dark&show_icons=true%count_private=true&include_all_commits=true"/> 
 
-   <br /> <br /><></>
+   <br/>
+   <br/>
    <img width="490px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=salescamila"/>
 </div>
 
