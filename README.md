@@ -30,7 +30,7 @@ I spent my first 4 years of career working with C/C++ and Java, the last 6 years
 - At [Debugging](https://salescamila.github.io/debugging/) I'll be catalogin the problems I face as a software engineer
 
 ## My Stats
-
+<img src="https://visitor-badge.glitch.me/badge?page_id=salescamila" alt="visitor badge" />
 <div>
    <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salescamila&show_icons=true&langs_count=8&layout=compact&theme=buefy&count_private=true"/>
 
@@ -39,8 +39,7 @@ I spent my first 4 years of career working with C/C++ and Java, the last 6 years
    <br /> <br />
 
    <img width="490px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=salescamila"/>
+
+   
 </div>
 
-<p align="right">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=salescamila" alt="visitor badge" />
-</p>
