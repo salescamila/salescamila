@@ -40,3 +40,7 @@ I spent my first 4 years of career working with C/C++ and Java, the last 6 years
 
    <img width="490px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=salescamila"/>
 </div>
+
+<p align="right">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=salescamila" alt="visitor badge" />
+</p>
