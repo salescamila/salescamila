@@ -23,7 +23,7 @@ I spent my first 4 years of career working with C/C++ and Java, 6 years working 
    <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" />
   </a>
 <!-- - :books: I'm tracking my studies on the tab [Projects](https://github.com/salescamila?tab=projects) -->
-- ⚡ Fun fact: I dream to become a great android developer 
+- ⚡ Fun fact: My goal is to become a great android developer 
 
 ## Side Projects
 - At [Debugging](https://salescamila.github.io/debugging/) I'll be catalogin the problems I face as a software engineer
