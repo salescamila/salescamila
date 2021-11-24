@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I spent my first 4 years of career working with C/C++ and Java, the last 6 years working with Pascal on Delphi 5, Oracle database and ABAP for SAP ERP and now I'm a Front-end Developer using Node.js with React for work and React Native for fun on my spare time.
+I spent my first 4 years of career working with C/C++ and Java, 6 years working with Pascal on Delphi 5, Oracle database and ABAP for SAP ERP, 1 year with Front-end Development using Node.js with React and now I'm working with Android Development.
 
-- 🔭 I'm currently working with Front-end Web Development at [Sidia](https://www.sidia.com/)
-- 🌱 I’m currently doing a post-graduation in Software Engineer
+- 🔭 I'm currently working with Android Development at [Cesar](https://www.cesar.org.br/)
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/salescamila">
    <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" />
