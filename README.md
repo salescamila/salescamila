@@ -22,7 +22,7 @@ I spent my first 4 years of career working with C/C++ and Java, 6 years working 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/salescamila">
    <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" />
   </a>
-- :books: I'm tracking my studies on the tab [Projects](https://github.com/salescamila?tab=projects)
+<!-- - :books: I'm tracking my studies on the tab [Projects](https://github.com/salescamila?tab=projects) -->
 - ⚡ Fun fact: I dream to become a great android developer 
 
 ## Side Projects
