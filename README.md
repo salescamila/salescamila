@@ -15,18 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I spent my first 4 years of career working with C/C++ and Java, 6 years working with Pascal on Delphi 5, Oracle database and ABAP for SAP ERP, 1 year with Front-end Development using Node.js with React and now I'm working with Android Development.
+I've spent my first 4 years of career working with C/C++ and Java, 6 years working with Pascal on Delphi 5, Oracle database and ABAP for SAP ERP, 1 year with Front-end Development using with React.js (Next.js + Styled Components), 1 year with AOSP Framework-UI (Java) and now I'm looking for a job as I passed for the famouse lay-off.
 
-- 🔭 I'm currently working with Android Development at [Cesar](https://www.cesar.org.br/)
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/salescamila">
-   <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" />
+   <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=plastic&logo=linkedin&labelColor=3D6098" />
+  </a> <a href="mailto:camilas.dev@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-white?style=plastic&logo=gmail&labelColor=white" />
   </a>
-<!-- - :books: I'm tracking my studies on the tab [Projects](https://github.com/salescamila?tab=projects) -->
-- ⚡ Fun fact: My goal is to become a great android developer 
-
+  
+<!-- - :books: I'm tracking my studies on the tab [Projects](https://github.com/salescamila?tab=projects)
+- ⚡ Fun fact: My goal is to become a great android developer  -->
+<!--
 ## Side Projects
-- At [Debugging](https://salescamila.github.io/debugging/) I'll be catalogin the problems I face as a software engineer
+- At [Debugging](https://salescamila.github.io/debugging/) I'll be catalogin the problems I face as a software engineer -->
 
 ## My Stats
 <img src="https://visitor-badge.glitch.me/badge?page_id=salescamila" alt="visitor badge" />
