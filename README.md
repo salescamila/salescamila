@@ -32,7 +32,6 @@ I've spent my first 4 years of career working with C/C++ and Java, 6 years worki
 
 ## My Stats
 <img src="https://visitor-badge.glitch.me/badge?page_id=salescamila" alt="visitor badge" />
-<!--
 <div>
    <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salescamila&show_icons=true&langs_count=8&layout=compact&theme=buefy&count_private=true"/>
 
@@ -42,4 +41,3 @@ I've spent my first 4 years of career working with C/C++ and Java, 6 years worki
    <br/>
    <img width="490px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=salescamila"/>
 </div>
--->
