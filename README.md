@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I've spent my first 4 years of career working with C/C++ and Java, 6 years working with Pascal on Delphi 5, Oracle database and ABAP for SAP ERP, 1 year with Front-end Development using with React.js (Next.js + Styled Components), 1 year with AOSP Framework-UI (Java) and now I'm looking for a job as I passed for the famouse lay-off.
+I've spent my first 4 years of career working with C/C++ and Java, 6 years working with Pascal on Delphi 5, Oracle database and ABAP for SAP ERP, 1 year with Front-end Development using with React.js (Next.js + Styled Components), 1 year with AOSP Framework-UI (Java) and now I'm looking for a job as I passed for the famous lay-off.
 
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/salescamila">
