@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I've spent my first 4 years of career working with C/C++ and Java, 6 years working with Pascal on Delphi 5, Oracle database and ABAP for SAP ERP, 1 year with Front-end Development using with React.js (Next.js + Styled Components), 1 year with AOSP Framework-UI (Java) and now I'm looking for a job as I passed for the famous lay-off.
+I've spent my first 4 years of career working with C/C++ and Java, 6 years working with Pascal on Delphi 5, Oracle database and ABAP for SAP ERP, 1 year with Front-end Development using with React.js (Next.js + Styled Components), 1 year with AOSP Framework-UI (Java) and now back to Front-end Development with React.
 
+- 🔭 I’m currently focusing on maintaining 3 main healthy habits: sleep, nutrition and exercise
+- 🌱 I’m currently studying the [FullCycle course](https://curso.fullcycle.com.br/curso-fullcycle/)
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/salescamila">
    <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=plastic&logo=linkedin&labelColor=3D6098" />
@@ -31,9 +33,9 @@ I've spent my first 4 years of career working with C/C++ and Java, 6 years worki
 - At [Debugging](https://salescamila.github.io/debugging/) I'll be catalogin the problems I face as a software engineer -->
 
 ## My Stats
-<img src="https://visitor-badge.glitch.me/badge?page_id=salescamila" alt="visitor badge" />
+<!-- img src="https://visitor-badge.glitch.me/badge?page_id=salescamila" alt="visitor badge" /-->
 <div>
    <img height="190em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salescamila&show_icons=true&langs_count=8&layout=compact&theme=buefy&count_private=true"/>
    <img height="190em" align="left" src="https://github-readme-stats.vercel.app/api?username=salescamila&theme=buefy&?theme=dark&show_icons=true%count_private=true&include_all_commits=true"/> 
-   <img height="190em" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=salescamila"/>
+   <!-- img height="190em" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=salescamila"/-->
 </div>
