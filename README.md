@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I've spent my first 4 years of career working with C/C++ and Java, 6 years working with Pascal on Delphi 5, Oracle database and ABAP for SAP ERP, 1 year with Front-end Development using with React.js (Next.js + Styled Components), 1 year with AOSP Framework-UI (Java) and now back to Front-end Development with React.
+I'm a software engineer with a desktop and relational database development background who started studying front-end development and React.Js in early 2019 as a way to keep up with technology.
 
-- 🔭 I’m currently focusing on maintaining 3 main healthy habits: sleep, nutrition and exercise
+Working with programming since 2011, I developed in different programming languages as needed (C, C++, C#, Java, PHP, SQL, Pascal with Delphi 5, Javascript and ABAP for ERP/SAP) and also became familiar with the analysis process, requirements gathering, documentation, development, testing and post-implementation monitoring.
+
+- 🔭 I’m currently working with Front-end Development using React.js, ChakraUI and Next.js
 - 🌱 I’m currently studying the [FullCycle course](https://curso.fullcycle.com.br/curso-fullcycle/)
+- ⚡ Fun fact: I’m currently focusing on maintaining 3 main healthy habits: sleep, nutrition and exercise
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/salescamila">
    <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=plastic&logo=linkedin&labelColor=3D6098" />
